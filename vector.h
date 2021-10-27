@@ -1,11 +1,3 @@
-/*
- *         File: vector.h
- *       Author: Steve Gunn
- *      License: MIT License
- *         Date: 27th October 2018
- *  Description: Data structures and interfaces for operations on vectors.
- */
-
 #ifndef _VECTOR_H
 #define _VECTOR_H
 
