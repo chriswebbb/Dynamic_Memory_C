@@ -1,11 +1,3 @@
-/*
- *         File: vector.c
- *       Author: Steve Gunn
- *      License: MIT License
- *         Date: 27th October 2018
- *  Description: Implementation to dynamically allocate and perform operations on vectors.
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "vector.h"
