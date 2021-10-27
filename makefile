@@ -1,11 +1,3 @@
-#
-#         File: makefile
-#       Author: Steve Gunn
-#      License: MIT License
-#         Date: 27th October 2018
-#  Description: Makefile to build circuit simulator.
-#
-
 CC = gcc
 FLAGS = -pedantic -Wall
 
